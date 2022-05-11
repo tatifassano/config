@@ -1,0 +1,10 @@
+dataSourceClassName=oracle.jdbc.pool.OracleDataSource
+dataSource.user=Desarrollo
+dataSource.password=desa2018
+dataSource.databaseName=UES21PP
+dataSource.portNumber=1521
+dataSource.serverName=oracle11-pre.uesiglo21.edu.ar
+maximumPoolSize=5
+minimumIdle=1
+dataSource.driverType=thin
+connectionTestQuery=select 1 from dual
